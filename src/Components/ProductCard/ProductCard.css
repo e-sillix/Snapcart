@@ -1,0 +1,12 @@
+.product_card {
+  border: 1px solid black;
+  width: 150px;
+  height: 200px;
+  margin: 20px 20px;
+  border-radius: 7px;
+  padding: 5px 5px;
+}
+.Product_Link {
+  text-decoration: none;
+  color: black;
+}

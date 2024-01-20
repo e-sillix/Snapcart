@@ -1,0 +1,14 @@
+.login_column {
+  width: 40%;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.login_block {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px 10px;
+}

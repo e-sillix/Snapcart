@@ -9,7 +9,7 @@ export default function LoginPage() {
         <div className="login_block">
           <h2>Sign In</h2>
           <div>
-            <label htmlFor="user">UserName</label>
+            <label htmlFor="user">Email</label>
             <br />
             <input id="user" type="text" />
           </div>
